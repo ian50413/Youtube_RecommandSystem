@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCGPU0Z-UjKI2S03npo1QpcA', 'ChannelName': 'lizzydaily', 'Comments': '246 則留言', 'Desc': '沒有別的想說，一齊加油！！！！', 'DisLikes': '110', 'Duration': '0:06', 'Likes': '6917', 'Publish_Date': '2019年8月4日', 'Subscribers': '37萬 位訂閱者', 'Title': '回覆網友的煩惱!! 最近你也在低潮嗎？無力感？喜歡上別人的男友？炮友好難當？｜Lizzy Daily', 'Views': '觀看次數：112,932次'}

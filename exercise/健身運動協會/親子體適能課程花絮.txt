@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCM5lTH5jhUFp7BaPCcuoLlg', 'ChannelName': '健身運動協會', 'Comments': '觀看次數：1,782次 • 2018年5月16日 • 親子體適能指導員訓練即將開鑼，敬請期待!!', 'Desc': '親子體適能指導員訓練即將開鑼，敬請期待!!', 'DisLikes': '2', 'Duration': '0:57', 'Likes': '4', 'Publish_Date': '2018年5月16日', 'Subscribers': '5.12萬 位訂閱者', 'Title': '親子體適能課程花絮', 'Views': '觀看次數：1,782次'}

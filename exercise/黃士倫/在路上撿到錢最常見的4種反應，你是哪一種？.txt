@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCbdiHAzShzqcTbq4J4TPiCg', 'ChannelName': '黃士倫', 'Comments': '13 則留言', 'Desc': '在路上撿到錢最常見的4種反應，你是哪一種？', 'DisLikes': '26', 'Duration': '0:37', 'Likes': '92', 'Publish_Date': '2017年5月18日', 'Subscribers': '6.16萬 位訂閱者', 'Title': '在路上撿到錢最常見的4種反應，你是哪一種？', 'Views': '觀看次數：23,523次'}

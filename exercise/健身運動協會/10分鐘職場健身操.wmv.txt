@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCM5lTH5jhUFp7BaPCcuoLlg', 'ChannelName': '健身運動協會', 'Comments': '觀看次數：68,534次 • 2011年3月30日 • 坐式生活型態是慢性病的主因，上班族的朋友們，活動一下筋骨吧!', 'Desc': '坐式生活型態是慢性病的主因，上班族的朋友們，活動一下筋骨吧!', 'DisLikes': '11', 'Duration': '10:58', 'Likes': '218', 'Publish_Date': '2011年3月30日', 'Subscribers': '5.12萬 位訂閱者', 'Title': '10分鐘職場健身操.wmv', 'Views': '觀看次數：68,534次'}

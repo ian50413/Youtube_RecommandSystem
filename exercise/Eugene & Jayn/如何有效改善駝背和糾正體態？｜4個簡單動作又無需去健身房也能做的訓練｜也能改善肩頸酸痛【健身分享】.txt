@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCXRgJZZ29VevkFR_1Y3hYJQ', 'ChannelName': 'Eugene & Jayn', 'Comments': '5 則留言', 'Desc': '這集會跟大家分享有效改善駝背，\n讓體態快速回到健康狀態的 超簡單方法！\n改變生活中的小毛病，一起自信地擡頭挺胸。', 'DisLikes': '0', 'Duration': '5:03', 'Likes': '83', 'Publish_Date': '2020年7月12日', 'Subscribers': '1.56萬 位訂閱者', 'Title': '如何有效改善駝背和糾正體態？｜4個簡單動作又無需去健身房也能做的訓練｜也能改善肩頸酸痛【健身分享】', 'Views': '觀看次數：2,562次'}

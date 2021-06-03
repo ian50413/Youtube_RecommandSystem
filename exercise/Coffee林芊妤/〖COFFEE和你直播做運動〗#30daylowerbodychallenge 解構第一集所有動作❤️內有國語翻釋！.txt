@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCxCZqbizSsnntlz6w0fN8hA', 'ChannelName': 'Coffee林芊妤', 'Comments': '151 則留言', 'Desc': '第一次開直播！\n謝謝觀看喔～喜歡跟我一起做運動嗎？\n留言告訴我吧～下次再見^^', 'DisLikes': '28', 'Duration': '5:03', 'Likes': '1416', 'Publish_Date': '串流直播日期：2019年9月24日', 'Subscribers': '137萬 位訂閱者', 'Title': '〖COFFEE和你直播做運動〗#30daylowerbodychallenge 解構第一集所有動作❤️內有國語翻釋！', 'Views': '觀看次數：82,729次'}

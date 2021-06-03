@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UClFXUaeoTK0mAHx7aAd5MAg', 'ChannelName': 'dd邊走邊吃', 'Comments': '0 則留言', 'Desc': '#東京 #東京一番街 #酒酒井outlet\n第一次到東京 也是第一次自己帶長輩出國\n既期待又怕受傷 讓我們繼續看下去～', 'DisLikes': '0', 'Duration': '5:27', 'Likes': '21', 'Publish_Date': '2018年3月9日', 'Subscribers': '1.7萬 位訂閱者', 'Title': '東京ep.1｜ 來去東京遛爸媽n我弟｜東京一番街、酒酒井outlet', 'Views': '觀看次數：1,903次'}

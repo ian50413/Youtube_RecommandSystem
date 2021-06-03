@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCM5lTH5jhUFp7BaPCcuoLlg', 'ChannelName': '健身運動協會', 'Comments': '0 則留言', 'Desc': '中華民國健身運動協會對於推廣銀髮族運動已有相當多年的經驗。\n透過這些寶貴的經驗為大家整理出一系列的課程。希望藉由這樣的分享讓銀髮族、樂齡族及中高齡都能夠透過運動來達到健康促進。', 'DisLikes': '3', 'Duration': '0:38', 'Likes': '12', 'Publish_Date': '2016年7月21日', 'Subscribers': '5.12萬 位訂閱者', 'Title': '樂齡運動進階課程', 'Views': '觀看次數：3,001次'}

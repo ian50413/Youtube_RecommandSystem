@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCxCZqbizSsnntlz6w0fN8hA', 'ChannelName': 'Coffee林芊妤', 'Comments': '217 則留言', 'Desc': '', 'DisLikes': '25', 'Duration': '1:13:20', 'Likes': '1645', 'Publish_Date': '串流直播日期：2019年10月18日', 'Subscribers': '137萬 位訂閱者', 'Title': 'Coffee直播❤️同你一齊做1+2+3+4集下半身challenge ❤️', 'Views': '觀看次數：127,915次'}

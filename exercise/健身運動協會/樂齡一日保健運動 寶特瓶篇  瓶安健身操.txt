@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCM5lTH5jhUFp7BaPCcuoLlg', 'ChannelName': '健身運動協會', 'Comments': '0 則留言', 'Desc': '要活就要動樂齡和銀髮族更需要規律運動維持身體機能，針對每日作息設計的各個時段的身體運動，讓您將運動融入生活之中，每天更有活力並養成良好的運動習慣。', 'DisLikes': '4', 'Duration': '0:41', 'Likes': '67', 'Publish_Date': '2017年1月27日', 'Subscribers': '5.12萬 位訂閱者', 'Title': '樂齡一日保健運動 寶特瓶篇  瓶安健身操', 'Views': '觀看次數：10,112次'}

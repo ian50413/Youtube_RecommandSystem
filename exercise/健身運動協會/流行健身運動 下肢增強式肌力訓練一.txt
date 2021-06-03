@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCM5lTH5jhUFp7BaPCcuoLlg', 'ChannelName': '健身運動協會', 'Comments': '0 則留言', 'Desc': '由於現在全民健身風氣已相當盛行，本單元是結合了時下流行健身的元素讓您在家也可以自我訓練。鍛鍊身體的線條，強化肌肉的功能並且讓你有全新的健身體驗。', 'DisLikes': '2', 'Duration': '9:47', 'Likes': '39', 'Publish_Date': '2016年7月4日', 'Subscribers': '5.12萬 位訂閱者', 'Title': '流行健身運動 下肢增強式肌力訓練一', 'Views': '觀看次數：4,912次'}

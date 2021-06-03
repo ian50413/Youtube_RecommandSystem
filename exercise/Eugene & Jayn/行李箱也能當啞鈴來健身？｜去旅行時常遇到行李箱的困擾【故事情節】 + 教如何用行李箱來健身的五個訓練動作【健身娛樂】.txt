@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCXRgJZZ29VevkFR_1Y3hYJQ', 'ChannelName': 'Eugene & Jayn', 'Comments': '3 則留言', 'Desc': '行李箱健身的五個簡單動作，此影片純屬娛樂如果動作不標準請別那麽認真...', 'DisLikes': '1', 'Duration': '0:15', 'Likes': '28', 'Publish_Date': '2019年12月30日', 'Subscribers': '1.56萬 位訂閱者', 'Title': '行李箱也能當啞鈴來健身？｜去旅行時常遇到行李箱的困擾【故事情節】 + 教如何用行李箱來健身的五個訓練動作【健身娛樂】', 'Views': '觀看次數：851次'}

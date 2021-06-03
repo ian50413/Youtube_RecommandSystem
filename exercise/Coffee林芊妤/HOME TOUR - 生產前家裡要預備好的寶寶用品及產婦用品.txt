@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCxCZqbizSsnntlz6w0fN8hA', 'ChannelName': 'Coffee林芊妤', 'Comments': '243 則留言', 'Desc': '生育後發覺原來很多東西原來未準備好？\n或者真正使用前也不知道好不好用？\n我會和大家分享在BB到家前所有我預備好的東西喔\n希望你們喜歡我的分享啦！', 'DisLikes': '79', 'Duration': '22:57', 'Likes': '3083', 'Publish_Date': '2018年11月24日', 'Subscribers': '137萬 位訂閱者', 'Title': 'HOME TOUR - 生產前家裡要預備好的寶寶用品及產婦用品', 'Views': '觀看次數：215,502次'}

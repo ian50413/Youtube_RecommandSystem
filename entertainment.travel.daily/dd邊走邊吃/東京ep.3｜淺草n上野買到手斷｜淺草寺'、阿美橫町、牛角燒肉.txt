@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UClFXUaeoTK0mAHx7aAd5MAg', 'ChannelName': 'dd邊走邊吃', 'Comments': '4 則留言', 'Desc': '#淺草 #上野#阿美橫町', 'DisLikes': '0', 'Duration': '0:15', 'Likes': '9', 'Publish_Date': '2018年3月20日', 'Subscribers': '1.7萬 位訂閱者', 'Title': "東京ep.3｜淺草n上野買到手斷｜淺草寺'、阿美橫町、牛角燒肉", 'Views': '觀看次數：1,070次'}

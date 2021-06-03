@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UC5NJLhOf3ieYJqd1DJOdGOw', 'ChannelName': 'Iron士倫', 'Comments': '404 則留言', 'Desc': '白衣男ＩＧ\ninstagram:ler87874\n高國豪ＩＧ\ninstagram:kaooscar\n紅衣灌籃哥ＩＧ\ninstagram:hao_0222', 'DisLikes': '368', 'Duration': '3:46', 'Likes': '1792', 'Publish_Date': '2019年6月6日', 'Subscribers': '10.4萬 位訂閱者', 'Title': '跟高國豪打球巧遇新生灌籃哥', 'Views': '觀看次數：717,410次'}

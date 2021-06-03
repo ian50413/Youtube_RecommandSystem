@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCbdiHAzShzqcTbq4J4TPiCg', 'ChannelName': '黃士倫', 'Comments': '118 則留言', 'Desc': '超燃脂TABATA 8分鐘間歇訓練 TABATA WORKOUT 8 MINUTES', 'DisLikes': '345', 'Duration': '2:27', 'Likes': '2783', 'Publish_Date': '2016年12月15日', 'Subscribers': '6.16萬 位訂閱者', 'Title': '超燃脂TABATA 8分鐘間歇訓練 TABATA WORKOUT 8 MINUTES', 'Views': '觀看次數：686,780次'}

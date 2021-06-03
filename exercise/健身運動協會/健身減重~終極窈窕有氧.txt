@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCM5lTH5jhUFp7BaPCcuoLlg', 'ChannelName': '健身運動協會', 'Comments': '5 則留言', 'Desc': '這套課程適合初學者，但如有用藥、就醫，或是心血管病史的朋友，需先徵詢醫師意見再開始。敬請保持規律的運動,讓您身體越來越健康,越來越年輕有活力。', 'DisLikes': '20', 'Duration': '5:21', 'Likes': '192', 'Publish_Date': '2014年7月30日', 'Subscribers': '5.12萬 位訂閱者', 'Title': '健身減重~終極窈窕有氧', 'Views': '觀看次數：56,236次'}

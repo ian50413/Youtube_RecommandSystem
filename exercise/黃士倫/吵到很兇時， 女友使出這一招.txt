@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCbdiHAzShzqcTbq4J4TPiCg', 'ChannelName': '黃士倫', 'Comments': '27 則留言', 'Desc': '吵到很兇時， 女友使出這一招', 'DisLikes': '46', 'Duration': '0:30', 'Likes': '463', 'Publish_Date': '2017年5月9日', 'Subscribers': '6.16萬 位訂閱者', 'Title': '吵到很兇時， 女友使出這一招', 'Views': '觀看次數：97,521次'}

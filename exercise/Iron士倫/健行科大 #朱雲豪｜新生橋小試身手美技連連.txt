@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UC5NJLhOf3ieYJqd1DJOdGOw', 'ChannelName': 'Iron士倫', 'Comments': '142 則留言', 'Desc': '籃球實拍日常\n朱雲豪IG:chuyumhao_8\n如果有特別想看什麼訓練內容也可以留言告訴我\n想看更多訓練分享可以追蹤我的ig:ler87874\n#黃士倫 #街頭籃球 #灌籃', 'DisLikes': '20', 'Duration': '11:01', 'Likes': '372', 'Publish_Date': '2020年5月10日', 'Subscribers': '10.4萬 位訂閱者', 'Title': '健行科大 #朱雲豪｜新生橋小試身手美技連連', 'Views': '觀看次數：107,675次'}

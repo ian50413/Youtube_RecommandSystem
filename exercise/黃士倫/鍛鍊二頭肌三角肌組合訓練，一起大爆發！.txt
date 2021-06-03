@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCbdiHAzShzqcTbq4J4TPiCg', 'ChannelName': '黃士倫', 'Comments': '127 則留言', 'Desc': '鍛鍊二頭肌三角肌組合訓練，一起大爆發！', 'DisLikes': '127', 'Duration': '0:20', 'Likes': '2876', 'Publish_Date': '2017年3月29日', 'Subscribers': '6.16萬 位訂閱者', 'Title': '鍛鍊二頭肌三角肌組合訓練，一起大爆發！', 'Views': '觀看次數：362,957次'}

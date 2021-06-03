@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCbdiHAzShzqcTbq4J4TPiCg', 'ChannelName': '黃士倫', 'Comments': '19 則留言', 'Desc': '寵物係女友被罵的三種反應', 'DisLikes': '42', 'Duration': '1:07', 'Likes': '409', 'Publish_Date': '2016年9月26日', 'Subscribers': '6.16萬 位訂閱者', 'Title': '寵物係女友被罵的三種反應', 'Views': '觀看次數：79,692次'}

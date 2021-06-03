@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCM5lTH5jhUFp7BaPCcuoLlg', 'ChannelName': '健身運動協會', 'Comments': '0 則留言', 'Desc': '樂齡運動指導員工作坊/小資職能大補帖\n四種課程，一次滿足您對『知』與『教』的需求\n105年10月1日台北康寧大學', 'DisLikes': '0', 'Duration': '2:02', 'Likes': '4', 'Publish_Date': '2016年8月10日', 'Subscribers': '5.12萬 位訂閱者', 'Title': '樂齡運動指導大補帖1050809', 'Views': '觀看次數：1,781次'}

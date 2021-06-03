@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UClFXUaeoTK0mAHx7aAd5MAg', 'ChannelName': 'dd邊走邊吃', 'Comments': '5 則留言', 'Desc': '#門司港 #燒咖哩 #中州屋台', 'DisLikes': '0', 'Duration': '5:14', 'Likes': '12', 'Publish_Date': '2017年10月6日', 'Subscribers': '1.7萬 位訂閱者', 'Title': '福岡ep.3｜門司港⛵️、中州屋台🍻 悠哉的一天', 'Views': '觀看次數：671次'}

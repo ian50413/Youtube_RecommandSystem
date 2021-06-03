@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UClFXUaeoTK0mAHx7aAd5MAg', 'ChannelName': 'dd邊走邊吃', 'Comments': '4 則留言', 'Desc': '#宿霧 #菲律賓遊學 #宿霧遊學\n第一次跟同學去跳島\n結果剛好碰上颱風😑\n但是導遊說還是可以去 只是浪比較大\n所以我們還是出發啦～\n不過沒有去到資生堂島跟娜魯蘇安島😢\n就是玩玩水 上Tingo島走走的一天～', 'DisLikes': '0', 'Duration': '5:34', 'Likes': '16', 'Publish_Date': '2020年1月21日', 'Subscribers': '1.7萬 位訂閱者', 'Title': '菲律賓遊學ep2｜颱風天跳島！？🌊', 'Views': '觀看次數：951次'}

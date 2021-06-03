@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UClFXUaeoTK0mAHx7aAd5MAg', 'ChannelName': 'dd邊走邊吃', 'Comments': '5 則留言', 'Desc': '只聽過太麻里隔壁 卻沒來過這裡\n整條海線看了讓人心情放鬆\n上山又有滿滿的金針花✨\n台東是個太適合渡假的地方了\n#太麻里 #台東 #金針花 #阿鋐炸雞', 'DisLikes': '1', 'Duration': '8:56', 'Likes': '38', 'Publish_Date': '2018年11月15日', 'Subscribers': '1.7萬 位訂閱者', 'Title': '台東｜Day2 上山下海都美麗的太麻里', 'Views': '觀看次數：4,258次'}

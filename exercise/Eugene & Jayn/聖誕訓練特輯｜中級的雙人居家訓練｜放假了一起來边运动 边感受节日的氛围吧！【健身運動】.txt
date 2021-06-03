@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCXRgJZZ29VevkFR_1Y3hYJQ', 'ChannelName': 'Eugene & Jayn', 'Comments': '3 則留言', 'Desc': '聖誕特輯，你們會喜歡嗎？', 'DisLikes': '0', 'Duration': '5:48', 'Likes': '27', 'Publish_Date': '2019年12月18日', 'Subscribers': '1.56萬 位訂閱者', 'Title': '聖誕訓練特輯｜中級的雙人居家訓練｜放假了一起來边运动 边感受节日的氛围吧！【健身運動】', 'Views': '觀看次數：898次'}

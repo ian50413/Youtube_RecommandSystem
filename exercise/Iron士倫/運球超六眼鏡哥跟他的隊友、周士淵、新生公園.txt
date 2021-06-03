@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UC5NJLhOf3ieYJqd1DJOdGOw', 'ChannelName': 'Iron士倫', 'Comments': '215 則留言', 'Desc': '籃球實拍日常\n\n\n如果有特別想看什麼訓練內容也可以留言告訴我\n想看更多訓練分享可以追蹤我的ig:ler87874\n#黃士倫 #灌籃 #新生公園', 'DisLikes': '39', 'Duration': '0:36', 'Likes': '575', 'Publish_Date': '2020年4月21日', 'Subscribers': '10.4萬 位訂閱者', 'Title': '運球超六眼鏡哥跟他的隊友、周士淵、新生公園', 'Views': '觀看次數：221,682次'}

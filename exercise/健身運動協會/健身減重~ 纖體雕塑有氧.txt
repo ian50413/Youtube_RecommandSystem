@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCM5lTH5jhUFp7BaPCcuoLlg', 'ChannelName': '健身運動協會', 'Comments': '6 則留言', 'Desc': '這套課程適合初學者，但如有用藥、就醫，或是心血管病史的朋友，需先徵詢醫師意見再開始。敬請保持規律的運動,讓您身體越來越健康,越來越年輕有活力。', 'DisLikes': '15', 'Duration': '15:22', 'Likes': '144', 'Publish_Date': '2014年7月30日', 'Subscribers': '5.12萬 位訂閱者', 'Title': '健身減重~ 纖體雕塑有氧', 'Views': '觀看次數：42,509次'}

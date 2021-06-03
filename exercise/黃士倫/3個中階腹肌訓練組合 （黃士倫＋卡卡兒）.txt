@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCbdiHAzShzqcTbq4J4TPiCg', 'ChannelName': '黃士倫', 'Comments': '5 則留言', 'Desc': '3個中階腹肌訓練組合 （黃士倫＋卡卡兒）\n卡卡兒粉絲團: https://goo.gl/bs9Rzm', 'DisLikes': '20', 'Duration': '1:12', 'Likes': '173', 'Publish_Date': '2017年6月9日', 'Subscribers': '6.16萬 位訂閱者', 'Title': '3個中階腹肌訓練組合 （黃士倫＋卡卡兒）', 'Views': '觀看次數：31,306次'}

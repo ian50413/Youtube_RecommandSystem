@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UC5NJLhOf3ieYJqd1DJOdGOw', 'ChannelName': 'Iron士倫', 'Comments': '15 則留言', 'Desc': '科技日新月異\n透過科技輔助我們的訓練\n絕對會是未來的趨勢\n這次透過 經濟部技術處科技專案的研發成果\n讓我體驗到科技帶來的幫助\n希望能透過這樣的方式 \n在未來達到更高效精準的訓練', 'DisLikes': '1', 'Duration': '6:21', 'Likes': '92', 'Publish_Date': '2020年11月11日', 'Subscribers': '10.4萬 位訂閱者', 'Title': '體驗科技輔助訓練🦾達到更精準高效的訓練', 'Views': '觀看次數：4,582次'}
