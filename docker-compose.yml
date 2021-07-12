@@ -1,0 +1,66 @@
+
+version: "3.7"
+
+services:
+
+  mysql:
+    image: mysql:latest
+    ports:
+      - "3306:3306"
+    networks:
+      ithelp_application:
+        ipv4_address: 172.22.0.2 
+    
+    volumes:
+      - ./data/mysql:/var/lib/mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: "youtube"
+      TZ: 'Asia/Taipei'
+  
+  adminer:
+    image: adminer
+    networks:
+     ithelp_application:
+      ipv4_address: 172.22.0.3
+
+    ports:
+      - "8080:8080"
+    environment:
+      ADMINER_ROOT_USERNAME: root
+      ADMINER_ROOT_PASSWORD: youtube  
+  
+  mongo:
+    image: mongo:latest
+    ports:
+      - "27017:27017"
+    networks:
+     ithelp_application:
+      ipv4_address: 172.22.0.4
+
+    volumes:
+      - ./data/mongo:/data/db
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: youtube
+
+  mongo-express:
+    image: mongo-express
+    ports:
+      - "8081:8081"
+    networks:
+     ithelp_application:
+      ipv4_address: 172.22.0.5
+
+    environment:
+      ME_CONFIG_MONGODB_ADMINUSERNAME: root
+      ME_CONFIG_MONGODB_ADMINPASSWORD: youtube
+
+networks:
+ ithelp_application:
+  driver: bridge
+  ipam:
+       driver: default
+       config:
+           - subnet: 172.22.0.0/16
+             gateway: 172.22.0.1
+
